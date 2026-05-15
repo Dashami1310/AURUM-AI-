@@ -117,7 +117,7 @@ pip install torch torchaudio
 ```
 AURUM-AI/
 │
-├── AURUM_AI.ipynb          # Main Google Colab notebook (full pipeline)
+├── Code.ipynb          # Main Google Colab notebook (full pipeline)
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 
